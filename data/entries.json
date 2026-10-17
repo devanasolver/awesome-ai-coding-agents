@@ -1,0 +1,354 @@
+[
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "category": "autonomous",
+    "description": "Multi-agent framework that plays software company roles.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-01-21"
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "category": "autonomous",
+    "description": "Multi-agent framework that plays software company roles.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-01-21"
+  },
+  {
+    "repo": "OpenHands/OpenHands",
+    "category": "autonomous",
+    "description": "Platform for AI software development agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Pythagora-io/gpt-pilot",
+    "category": "autonomous",
+    "description": "Developer agent that builds apps step by step with you.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-18"
+  },
+  {
+    "repo": "SWE-agent/mini-swe-agent",
+    "category": "autonomous",
+    "description": "Minimal agent that solves software issues in 100 lines.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "category": "autonomous",
+    "description": "Agent that takes a GitHub issue and tries to fix it.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "SWE-bench/SWE-bench",
+    "category": "autonomous",
+    "description": "Benchmark for evaluating language models on real GitHub issues.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-18"
+  },
+  {
+    "repo": "abi/screenshot-to-code",
+    "category": "builders",
+    "description": "Turn screenshots and designs into code.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "stackblitz-labs/bolt.diy",
+    "category": "builders",
+    "description": "Community fork of Bolt that works with any model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "vercel/ai",
+    "category": "builders",
+    "description": "TypeScript toolkit for building AI apps and agents.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "vercel/v0-sdk",
+    "category": "builders",
+    "description": "SDK for the v0 app generation API. The service is paid.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "category": "cli",
+    "description": "Open-source, extensible AI agent that goes beyond code suggestions.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "category": "cli",
+    "description": "AI pair programming in your terminal.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-22"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "category": "cli",
+    "description": "Open-source AI coding agent built for the terminal.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "category": "cli",
+    "description": "Glamourous agentic coding in your terminal.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "cline/cline",
+    "category": "cli",
+    "description": "Autonomous coding agent in your IDE that edits files and runs commands with your approval.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "google-gemini/gemini-cli",
+    "category": "cli",
+    "description": "Open-source AI agent that brings Gemini into your terminal.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Kilo-Org/kilocode",
+    "category": "cli",
+    "description": "Open-source AI coding agent for editors.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openai/codex",
+    "category": "cli",
+    "description": "Lightweight coding agent from OpenAI that runs in your terminal.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ast-grep/ast-grep",
+    "category": "context",
+    "description": "Fast structural code search and rewriting tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "mufeedvh/code2prompt",
+    "category": "context",
+    "description": "CLI tool that turns a codebase into a prompt.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "sourcegraph/zoekt",
+    "category": "context",
+    "description": "Fast text search over source code.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "category": "context",
+    "description": "Incremental parsing system for programming tools.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "yamadashy/repomix",
+    "category": "context",
+    "description": "Pack your repo into a single AI-friendly file.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "continuedev/continue",
+    "category": "ide",
+    "description": "Open-source AI code assistant for VS Code and JetBrains.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-Coder",
+    "category": "ide",
+    "description": "Open code language models from DeepSeek.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2025-11-11"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "category": "ide",
+    "description": "Visual Studio Code open-source editor.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "TabbyML/tabby",
+    "category": "ide",
+    "description": "Self-hosted AI coding assistant.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-30"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "category": "ide",
+    "description": "High-performance multiplayer code editor with built-in AI features.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "anc95/ChatGPT-CodeReview",
+    "category": "review",
+    "description": "Code review bot powered by language models.",
+    "license": "ISC",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-10"
+  },
+  {
+    "repo": "danger/danger",
+    "category": "review",
+    "description": "Automate common code review chores.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "reviewdog/reviewdog",
+    "category": "review",
+    "description": "Automated code review tool that posts linter results to pull requests.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "super-linter/super-linter",
+    "category": "review",
+    "description": "Combination of many linters to run as a GitHub Action.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "The-PR-Agent/pr-agent",
+    "category": "review",
+    "description": "AI-powered pull request reviewer and assistant.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "devcontainers/spec",
+    "category": "sandbox",
+    "description": "Specification for development containers.",
+    "license": "CC-BY-4.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-20"
+  },
+  {
+    "repo": "e2b-dev/code-interpreter",
+    "category": "sandbox",
+    "description": "Python and JavaScript code interpreter for AI apps.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "category": "sandbox",
+    "description": "Open-source secure sandboxes for AI agent code.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "category": "sandbox",
+    "description": "Secure microVMs for serverless workloads.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "google/gvisor",
+    "category": "sandbox",
+    "description": "Application kernel for containers, for stronger isolation.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "category": "skills",
+    "description": "Reference collection of Model Context Protocol servers.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "PatrickJS/awesome-cursorrules",
+    "category": "skills",
+    "description": "Collection of rules files for Cursor.",
+    "license": "CC0-1.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-30"
+  },
+  {
+    "repo": "microsoft/playwright",
+    "category": "test",
+    "description": "End-to-end testing across browsers.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "promptfoo/promptfoo",
+    "category": "test",
+    "description": "Test prompts, agents and RAG, and red-team models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "qodo-ai/qodo-cover",
+    "category": "test",
+    "description": "AI tool that generates tests to raise code coverage.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-05"
+  }
+]

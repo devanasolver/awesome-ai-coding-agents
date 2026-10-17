@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "AGENT",
+  "DIFF",
+  "PATCH",
+  "REPO",
+  "REVIEW",
+  "LINT",
+  "TEST",
+  "PROMPT",
+  "CLI",
+  "IDE",
+  "COMMIT",
+  "SANDBOX",
+  "CONTEXT",
+  "EDIT",
+  "PLAN",
+  "MCP"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "AI Coding Agents",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "AGENTS  |  CLI  |  IDE",
+ "sub2": "REVIEW  |  TESTING  |  CONTEXT",
+ "foot": "Open-source AI coding tools, each checked for license and activity"
+}
