@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added flisk-sh/flisk (cli) — by the author.
+
 ## 2026-10-18
 
 - First version: 44 verified repos in 9 categories.

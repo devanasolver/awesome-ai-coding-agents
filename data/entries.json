@@ -350,5 +350,13 @@
     "license": "AGPL-3.0",
     "verified": "2026-10-18",
     "last_commit": "2026-04-05"
+  },
+  {
+    "repo": "flisk-sh/flisk",
+    "category": "cli",
+    "description": "CLI that turns an empty folder into a running local stack for agent-built apps; generates Compose and Tilt from an autodetected app. (by the author)",
+    "license": "MIT",
+    "verified": "2026-10-24",
+    "last_commit": "2026-10-23"
   }
 ]
