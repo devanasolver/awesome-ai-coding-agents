@@ -1,5 +1,13 @@
 [
   {
+    "repo": "vostride/agent-qa",
+    "category": "test",
+    "description": "Web/mobile testing via CLI and MCP, with memidex memory and validated self-improvement; model/API costs may apply (by the author). [Website](https://vostride.com).",
+    "license": "FSL-1.1-ALv2",
+    "verified": "2026-10-31",
+    "last_commit": "2026-10-31"
+  },
+  {
     "repo": "FoundationAgents/MetaGPT",
     "category": "autonomous",
     "description": "Multi-agent framework that plays software company roles.",

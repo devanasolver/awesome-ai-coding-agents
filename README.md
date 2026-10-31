@@ -85,6 +85,7 @@ Generate and run tests.
 - [microsoft/playwright](https://github.com/microsoft/playwright) ![stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat&label=%E2%98%85) - End-to-end testing across browsers. _(Apache-2.0)_
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) ![stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat&label=%E2%98%85) - Test prompts, agents and RAG, and red-team models. _(MIT)_
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) ![stars](https://img.shields.io/github/stars/qodo-ai/qodo-cover?style=flat&label=%E2%98%85) - AI tool that generates tests to raise code coverage. _(AGPL-3.0)_
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) ![stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat&label=%E2%98%85) - Web/mobile testing via CLI and MCP, with memidex memory and validated self-improvement; model/API costs may apply (by the author). [Website](https://vostride.com). _(FSL-1.1-ALv2)_
 
 ## Context, repo maps and docs
 
